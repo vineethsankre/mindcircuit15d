@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>mindcircuitbatch14</artifactId>
-    <version>8.3.0</version>
+    <artifactId>mindcircuitbatch15d</artifactId>
+    <version>1.0.0</version>
     <packaging>war</packaging>
 
 	<properties>
